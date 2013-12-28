@@ -2,6 +2,8 @@
 
 Sudoku-Solver made in several programming languages
 
+TODO: add comments and clean-up code!
+
 ## The Algorithm
 
 ### Backtracking
